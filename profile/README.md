@@ -7,19 +7,19 @@ Teams build AI agents for real-world business process automation, using business
 
 ## Discord
 
-- Participants: https://discord.gg/sgEFy96vW3 (gives the Participant role, never expires)
+- **Participants:** [Join the Discord](https://discord.gg/sgEFy96vW3) (gives the Participant role, never expires)
 
 ## For teams
 
 - Create one repository per team in this organization and add your teammates.
 - Keep secrets, API keys and confidential business data out of public repositories.
-- Show your result in the demo session and share the repo link in `#demos` on Discord.
+- Show your result in the demo session and share the repo link in [#demos-and-sharing](https://discord.com/channels/1575079191529922600/1575083596975317052) on Discord.
 
 ## Resources
 
-- GAIK toolkit: https://github.com/GAIK-project/gaik-toolkit (`pip install gaik`)
-- Docs: https://gaik-project.github.io/gaik-toolkit/
-- Live demo: https://gaik-demo.2.rahtiapp.fi/
+- [GAIK toolkit](https://github.com/GAIK-project/gaik-toolkit) (`pip install gaik`)
+- [Documentation](https://gaik-project.github.io/gaik-toolkit/)
+- [Live demo](https://gaik-demo.2.rahtiapp.fi/)
 
 ## Organizers and partners
 
