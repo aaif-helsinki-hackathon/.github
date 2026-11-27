@@ -5,6 +5,10 @@ Haaga-Helia University of Applied Sciences, Pasila campus, Helsinki · [Event pa
 
 Teams build AI agents for real-world business process automation, using business process models and open source assets such as the [GAIK toolkit](https://github.com/GAIK-project/gaik-toolkit).
 
+## Discord
+
+- Participants: https://discord.gg/sgEFy96vW3 (gives the Participant role, never expires)
+
 ## For teams
 
 - Create one repository per team in this organization and add your teammates.
